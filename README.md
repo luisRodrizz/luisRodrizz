@@ -1,8 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hola, soy Luis Rodríguez</h1>
 
----
-
 ## 👋 Sobre mí
 
 - Estudiante de **Ingeniería de Software** 5to ciclo 
@@ -11,7 +9,6 @@
 - Objetivo: seguir mejorando en mi lógica de programación y conocer nuevas tecnologias a utlizar!
 
 - Contacto: luiisrodriguezguevara@gmail.com / +51973237491
----
 
 ## 🧰 Stack & Tecnologías
 
@@ -36,8 +33,6 @@
   </a>
 </p>
 
----
-
 ## 📊 Stats
 
 <p align="center">
@@ -48,8 +43,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luisRodrizz&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌐 Conecta conmigo
 
