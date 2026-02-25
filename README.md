@@ -19,12 +19,12 @@
 
 ## 👋 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** 5to ciclo 
-- 🧠 Me gusta aprender y construir proyectos reales
-- ⚙️ Enfocado en **Backend** pero también disfruto el **Frontend**
-- 🚀 Objetivo: seguir mejorando en mi lógica de programación y conocer nuevas tecnologias a utlizar!
+- Estudiante de **Ingeniería de Software** 5to ciclo 
+- Me gusta aprender y construir proyectos reales
+- Enfocado en **Backend** pero también disfruto el **Frontend**
+- Objetivo: seguir mejorando en mi lógica de programación y conocer nuevas tecnologias a utlizar!
 
-- Contancto: luiisrodriguezguevara@gmail.com / +51973237491
+- Contacto: luiisrodriguezguevara@gmail.com / +51973237491
 ---
 
 ## 🧰 Stack & Tecnologías
