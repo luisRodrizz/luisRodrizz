@@ -15,7 +15,7 @@ Luis Rodríguez
 ### Backend
 
 <p>
-[(https://skillicons.dev/icons?i=nodejs,postgres,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,py,&perline=3)](https://skillicons.dev)
 
 ### Frontend
 
