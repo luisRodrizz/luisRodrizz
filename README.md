@@ -6,7 +6,6 @@ luisRodrizz
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Bienvenido+a+mi+Perfil+de+Github!;Soy+Luis+Rodríguez.;Estudiante+de+Ing.+de+Software.;SSiempre+trato+de+expandir+mi+conocimineto!)](https://git.io/typing-svg)
 
-
 ## Mi stack & Tecnologias conocidas
 
 ### Backend
