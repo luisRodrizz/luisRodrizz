@@ -75,17 +75,19 @@
 
 ---
 
-## 🌐 Mis redes
+## 🌐 Conecta conmigo
 
 <p align="center">
   <a href="https://www.facebook.com/luis.rodriguez.679787">
-    <img src="https://img.shields.io/badge/Facebook-Luis%20Rodríguez-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/lu1ss.rdz/">
-    <img src="https://img.shields.io/badge/Instagram-@lu1ss.rdz-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@lu1sz._">
-    <img src="https://img.shields.io/badge/TikTok-@lu1sz._-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/tiktok/000000" height="45"/>
   </a>
 </p>
 
