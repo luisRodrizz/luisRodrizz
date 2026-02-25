@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">Luis Rodríguez</h1>
+<h1 align="center">Hola, soy Luis Rodríguez</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -19,10 +19,10 @@
 
 ## 👋 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software**
+- 🎓 Estudiante de **Ingeniería de Software** 5to ciclo 
 - 🧠 Me gusta aprender y construir proyectos reales
 - ⚙️ Enfocado en **Backend** pero también disfruto el **Frontend**
-- 🚀 Objetivo: seguir mejorando en arquitectura, bases de datos y buenas prácticas
+- 🚀 Objetivo: seguir mejorando en mi lógica de programación y conocer nuevas tecnologias a utlizar!
 
 ---
 
