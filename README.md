@@ -78,14 +78,14 @@
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.facebook.com/luis.rodriguez.679787" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50"/>
+  <a href="https://www.facebook.com/luis.rodriguez.679787">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/lu1ss.rdz/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  <a href="https://www.instagram.com/lu1ss.rdz/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@lu1sz._" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" height="50"/>
+  <a href="https://www.tiktok.com/@lu1sz._">
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
