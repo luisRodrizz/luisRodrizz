@@ -7,14 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/luisRodrizz">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Stack-Full%20Stack-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/En%20proceso-Constancia%20%F0%9F%94%A5-22C55E?style=for-the-badge" />
-</p>
-
 ---
 
 ## 👋 Sobre mí
