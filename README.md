@@ -24,7 +24,7 @@ luisRodrizz
   </a>
 </p>
 
-### Software
+### Herramientas
 
 <p align="">
   <a href="https://skillicons.dev">
