@@ -65,16 +65,6 @@
 
 ---
 
-## 🧩 Proyectos (destacados)
-<!-- Reemplaza con tus repos reales -->
-- 🚀 **Proyecto 1** — breve descripción (stack: Node/React/etc)  
-- 🧠 **Proyecto 2** — breve descripción (stack: Python/Postgres/etc)  
-- 🛠️ **Proyecto 3** — breve descripción (stack: Prisma/Postgres/etc)
-
----
-
----
-
 ## 🌐 Conecta conmigo
 
 <p align="center">
@@ -91,5 +81,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <sub>Hecho con constancia y café ☕</sub>
+  <sub>Hecho por mi <3</sub>
 </p>
