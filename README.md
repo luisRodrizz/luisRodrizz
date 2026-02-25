@@ -73,11 +73,19 @@
 
 ---
 
-## 🤝 Conecta conmigo
-<!-- Si tienes links reales (LinkedIn/Portfolio/Correo), ponlos aquí -->
-<p>
-  <a href="https://github.com/luisRodrizz">
-    <img src="https://img.shields.io/badge/GitHub-luisRodrizz-181717?style=for-the-badge&logo=github" />
+---
+
+## 🌐 Mis redes
+
+<p align="center">
+  <a href="https://www.facebook.com/luis.rodriguez.679787">
+    <img src="https://img.shields.io/badge/Facebook-Luis%20Rodríguez-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lu1ss.rdz/">
+    <img src="https://img.shields.io/badge/Instagram-@lu1ss.rdz-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@lu1sz._">
+    <img src="https://img.shields.io/badge/TikTok-@lu1sz._-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
