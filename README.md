@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <h1 align="center">Hola, soy Luis Rodríguez</h1>
 
-## 👋 Sobre mí
+##  Sobre mí
 
 - Estudiante de **Ingeniería de Software** 5to ciclo 
 - Me gusta aprender y construir proyectos reales
@@ -10,16 +10,16 @@
 
 - Contacto: luiisrodriguezguevara@gmail.com / +51973237491
 
-## 🧰 Stack & Tecnologías
+##  Stack & Tecnologías
 
-### 🧩 Backend
+###  Backend
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,prisma" />
   </a>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind" />
@@ -33,13 +33,13 @@
   </a>
 </p>
 
-## 📊 Stats
+##  Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luisRodrizz&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🌐 Conecta conmigo
+##  Conecta conmigo
 
 <p align="center">
   <a href="https://www.facebook.com/luis.rodriguez.679787">
