@@ -15,7 +15,7 @@
 ###  Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,postgres" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 ### 🛠️ Herramientas
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,postman,docker,prisma" />
   </a>
 </p>
 
