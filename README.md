@@ -6,7 +6,7 @@
 <h2 align="center">Hola, soy Luis Rodríguez 👋</h2>
 
 <p align="center">
-  Estudiante de Ingeniería de Software enfocado en el desarrollo de aplicaciones web, backend, APIs REST y bases de datos.
+  Estudiante de Ingeniería de Software enfocado en el desarrollo de aplicaciones web.
 </p>
 
 <p align="center">
