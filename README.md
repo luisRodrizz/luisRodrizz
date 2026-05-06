@@ -32,16 +32,15 @@
 const Luis = {
   carrera: "Ingeniería de Software",
   ciclo: "5to ciclo",
-  enfoque: ["Backend", "APIs REST", "Bases de datos", "Aplicaciones web"],
-  aprendiendo: ["Laravel", ".NET", "Arquitectura Backend", "Buenas prácticas"],
+  enfoque: ["Backend", "Frontend", "APIs REST", "Bases de datos", "Aplicaciones web"],
+  lenguajes: ["Laravel", "PHP", "Node.js, "JavaScript", "TypeScript", "Python"],
   objetivo: "Construir proyectos reales, escalables y con buena experiencia de usuario"
 };
 ```
 
-- Actualmente desarrollo proyectos web usando tecnologías modernas.
-- Me interesa especialmente el **backend**, la lógica de negocio y el diseño de bases de datos.
-- También trabajo con frontend para construir interfaces limpias, funcionales y responsivas.
-- Busco seguir mejorando como desarrollador y construir soluciones reales.
+- Tengo 19 años y estudio Ingeniería de Software en SENATI, actualmente en 5to ciclo.
+- Me enfoco en el desarrollo web full stack, construyendo interfaces modernas y backend funcional para sistemas reales.
+- Busco oportunidades para seguir creciendo como desarrollador, aportar en equipos reales y mejorar mi criterio técnico con proyectos de mayor impacto.
 
 ---
 
