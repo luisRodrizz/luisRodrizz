@@ -33,7 +33,7 @@ const Luis = {
   carrera: "Ingeniería de Software",
   ciclo: "5to ciclo",
   enfoque: ["Backend", "Frontend", "APIs REST", "Bases de datos", "Aplicaciones web"],
-  lenguajes: ["Laravel", "PHP", "Node.js, "JavaScript", "TypeScript", "Python"],
+  lenguajes: ["Laravel", "PHP", "Node.js", "JavaScript", "TypeScript", "Python"],
   objetivo: "Construir proyectos reales, escalables y con buena experiencia de usuario"
 };
 ```
